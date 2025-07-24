@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @animus-vox
-- 🌱 I’m currently learning GUI
 - 💞️ I’m looking to collaborate on any project i can help with.
 - 📫 Reach me on [Linkedin!](https://www.linkedin.com/in/itaykrishtal/)
 
